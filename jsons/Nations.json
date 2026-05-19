@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Upside-Down",
+		"name": "Upside-Down2",
 		"leaderName": "Rotatceps",
 		"adjective": ["Upside-Down"],
 		"style": "Upside Down",
@@ -17,8 +17,8 @@
 		"hateHello": "Want you do what?",
 		"tradeRequest": "Me with deal this make to - existing for reason a have do you that appears it.",
 
-		"outerColor": [255,255,255],
-		"innerColor": [0,0,0],
+		"outerColor": [0,0,0],
+		"innerColor": [255,255,255],
 		"uniqueName": "The World Turned Upside-Down",
 		"uniqueText": "All the special advantages that other nations have, combined into one, with none of the special disadvantages. Are you ready to turn the world upside down?",
 		"uniques": ["Free [Great Scientist] appears <upon discovering [Writing] technology>", "[Great Scientist] is earned [50]% faster",
