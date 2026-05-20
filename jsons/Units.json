@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Roirraw",
+		"name": "Roirraw2",
 		"unitType": "Sword",
 		"uniqueTo": "Upside-Down2",
 		"replaces": "Warrior",
@@ -14,7 +14,7 @@
 		"attackSound": "nonmetalhit"
 	},
 	{
-		"name": "Rehcra",
+		"name": "Rehcra2",
 		"unitType": "Archery",
 		"uniqueTo": "Upside-Down2",
 		"replaces": "Archer",
@@ -29,7 +29,7 @@
 		"attackSound": "arrow"
 	},
 	{
-		"name": "Yellag",
+		"name": "Yellag2",
 		"unitType": "Melee Water",
 		"uniqueTo": "Upside-Down2",
 		"movement": 3,
@@ -41,7 +41,7 @@
 		"attackSound": "nonmetalhit"
 	},
 	{
-		"name": "Emerirt",
+		"name": "Emerirt2",
 		"unitType": "Ranged Water",
 		"uniqueTo": "Upside-Down2",
 		"replaces": "Trireme",
@@ -57,7 +57,7 @@
 		"attackSound": "arrow"
 	},
 	{
-		"name": "Toirahc Rehcra",
+		"name": "Toirahc Rehcra2",
 		"unitType": "Archery",
 		"uniqueTo": "Upside-Down2",
 		"replaces": "Chariot Archer",
@@ -73,7 +73,7 @@
 		"attackSound": "arrow"
 	},
 	{
-		"name": "Namraeps",
+		"name": "Namraeps2",
 		"replaces": "Spearman",
 		"uniqueTo": "Upside-Down2",
 		"unitType": "Sword",
@@ -90,7 +90,7 @@
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "Tlupatac",
+		"name": "Tlupatac2",
 		"unitType": "Siege",
 		"replaces": "Catapult",
 		"uniqueTo": "Upside-Down2",
@@ -109,7 +109,7 @@
 		"attackSound": "throw"
 	},
 	{
-		"name": "Namsdrows",
+		"name": "Namsdrows2",
 		"unitType": "Sword",
 		"uniqueTo": "Upside-Down2",
 		"replaces": "Swordsman",
@@ -126,7 +126,7 @@
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "Namesroh",
+		"name": "Namesroh2",
 		"unitType": "Mounted",
 		"uniqueTo": "Upside-Down2",
 		"replaces": "Horseman",
@@ -145,7 +145,7 @@
 		"attackSound": "horse"
 	},
 	{
-		"name": "Namwobssorc",
+		"name": "Namwobssorc2",
 		"unitType": "Archery",
 		"uniqueTo": "Upside-Down2",
 		"movement": 2,
@@ -160,7 +160,7 @@
 		"attackSound": "arrow"
 	},
 	{
-		"name": "Tehcubert",
+		"name": "Tehcubert2",
 		"unitType": "Siege",
 		"replaces": "Trebuchet",
 		"uniqueTo": "Upside-Down2",
@@ -177,7 +177,7 @@
 		"attackSound": "throw"
 	},
 	{
-		"name": "Namsdrowsgnol",
+		"name": "Namsdrowsgnol2",
 		"replaces": "Longswordsman",
 		"uniqueTo": "Upside-Down2",
 		"unitType": "Sword",
@@ -193,7 +193,7 @@
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "Namekip",
+		"name": "Namekip2",
 		"replaces": "Pikeman",
 		"uniqueTo": "Upside-Down2",
 		"unitType": "Sword",
@@ -208,7 +208,7 @@
 		"attackSound": "metalhit"
 	},
 	{
-		"name": "Thgink",
+		"name": "Thgink2",
 		"replaces": "Knight",
 		"uniqueTo": "Upside-Down2",
 		"unitType": "Archery",
@@ -228,7 +228,7 @@
 		"attackSound": "arrow"
 	},
 	{
-		"name": "Levarac",
+		"name": "Levarac2",
 		"unitType": "Melee Water",
 		"replaces": "Caravel",
 		"uniqueTo": "Upside-Down2",
@@ -244,7 +244,7 @@
 		"attackSound": "cannon"
 	},
 	{
-		"name": "Namteksum",
+		"name": "Namteksum2",
 		"unitType": "Gunpowder",
 		"replaces": "Musketman",
 		"uniqueTo": "Upside-Down2",
@@ -260,7 +260,7 @@
 		"attackSound": "shot"
 	},
 	{
-		"name": "Reetavirp",
+		"name": "Reetavirp2",
 		"unitType": "Melee Water",
 		"replaces": "Privateer",
 		"uniqueTo": "Upside-Down2",
@@ -273,7 +273,7 @@
 		"attackSound": "cannon"
 	},
 	{
-		"name": "Etagirf",
+		"name": "Etagirf2",
 		"unitType": "Ranged Water",
 		"replaces": "Frigate",
 		"uniqueTo": "Upside-Down2",
@@ -290,7 +290,7 @@
 		"attackSound": "cannon"
 	},
 	{
-		"name": "Recnal",
+		"name": "Recnal2",
 		"unitType": "Mounted",
 		"replaces": "Lancer",
 		"uniqueTo": "Upside-Down2",
@@ -309,7 +309,7 @@
 		"attackSound": "horse"
 	},
 	{
-		"name": "Namelfir",
+		"name": "Namelfir2",
 		"unitType": "Gunpowder",
 		"replaces": "Rifleman",
 		"uniqueTo": "Upside-Down2",
@@ -323,7 +323,7 @@
 		"attackSound": "shot"
 	},
 	{
-		"name": "Yrlavac",
+		"name": "Yrlavac2",
 		"unitType": "Mounted",
 		"replaces": "Cavalry",
 		"uniqueTo": "Upside-Down2",
@@ -342,7 +342,7 @@
 		"attackSound": "horse"
 	},
 	{
-		"name": "Rethgif",
+		"name": "Rethgif2",
 		"unitType": "Fighter",
 		"replaces": "Fighter",
 		"uniqueTo": "Upside-Down2",
@@ -361,7 +361,7 @@
 		"attackSound": "machinegun"
 	},
 	{
-		"name": "Rebmob",
+		"name": "Rebmob2",
 		"unitType": "Bomber",
 		"replaces": "Bomber",
 		"uniqueTo": "Upside-Down2",
@@ -377,7 +377,7 @@
 		"attackSound": "bombing"
 	},
 	{
-		"name": "Taerg Raw Yrtnafni",
+		"name": "Taerg Raw Yrtnafni2",
 		"unitType": "Gunpowder",
 		"replaces": "Great War Infantry",
 		"uniqueTo": "Upside-Down2",
@@ -391,7 +391,7 @@
 		"attackSound": "shot"
 	},
 	{
-		"name": "Knat",
+		"name": "Knat2",
 		"unitType": "Armored",
 		"uniqueTo": "Upside-Down2",
 		"replaces": "Tank",
@@ -406,7 +406,7 @@
 		"attackSound": "tankshot"
 	},
 	{
-		"name": "Taerg Lareneg",
+		"name": "Taerg Lareneg2",
 		"unitType": "Civilian",
 		"uniqueTo": "Upside-Down2",
 		"replaces": "Great General",
