@@ -1,8 +1,8 @@
 [
    	{
-		"name": "Tnemunom2",
+		"name": "Tnemunom",
 		"replaces": "Monument",
-		"uniqueTo": "Upside-Down2",
+		"uniqueTo": "Upside-Down2, Upside-Down",
 		"culture": 2,
 		"faith": 2,
 		"cost": 40,
@@ -13,7 +13,7 @@
 	{
 		"name": "Enirhs2",
 		"replaces": "Shrine",
-		"uniqueTo": "Upside-Down2",
+		"uniqueTo": "Upside-Down2, Upside-Down",
 		"faith": 2,
 		"science": 2,
 		"cost": 40,
@@ -24,7 +24,7 @@
 	{
     	"name": "Yrarbil2",
 		"replaces": "Library",
-		"uniqueTo": "Upside-Down2",
+		"uniqueTo": "Upside-Down2, Upside-Down",
 		"hurryCostModifier": 25,
 		"gold": 2,
 		"uniques": ["[+1 Science] per [2] population [in this city]"],
@@ -33,7 +33,7 @@
 	{
 		"name": "Retaw Llim2",
 		"replaces": "Water Mill",
-		"uniqueTo": "Upside-Down2",
+		"uniqueTo": "Upside-Down2, Upside-Down",
 		"cost": 75,
 		"food": 2,
 		"production": 1,
@@ -48,7 +48,7 @@
 		"name": "Sllaw2",
 		"replaces": "Walls",
 		"cost": 65,
-		"uniqueTo": "Upside-Down2",
+		"uniqueTo": "Upside-Down2, Upside-Down",
 		"cityStrength": 6,
 		"cityHealth": 100,
 		"hurryCostModifier": 25,
@@ -58,7 +58,7 @@
     {
 		"name": "Skcarrab2",
 	   	"replaces": "Barracks",
-		"uniqueTo": "Upside-Down2",
+		"uniqueTo": "Upside-Down2, Upside-Down",
 		"hurryCostModifier": 25,
 		"maintenance": 1,
 		"uniques": ["[-25]% Culture cost of natural border growth [in this city]",
@@ -70,7 +70,7 @@
     {
 		"name": "Elpmet2",
 		"replaces": "Temple",
-		"uniqueTo": "Upside-Down2",
+		"uniqueTo": "Upside-Down2, Upside-Down",
 		"maintenance": 0,
 		"hurryCostModifier": 25,
 		"culture": 2,
@@ -84,7 +84,7 @@
     {
 		"name": "Tekram2",
 		"replaces": "Market",
-		"uniqueTo": "Upside-Down2",
+		"uniqueTo": "Upside-Down2, Upside-Down",
 		"gold": 2,
 		"specialistSlots": {"Merchant": 1},
 		"hurryCostModifier": 25,
@@ -97,7 +97,7 @@
     {
 		"name": "Pohskrow2",
 		"replaces": "Workshop",
-		"uniqueTo": "Upside-Down2",
+		"uniqueTo": "Upside-Down2, Upside-Down",
 		"cost": 100,
 		"maintenance": 2,
 		"production": 2,
@@ -110,7 +110,7 @@
     {
 		"name": "Ytisrevinu2",
 		"replaces": "University",
-		"uniqueTo": "Upside-Down2",
+		"uniqueTo": "Upside-Down2, Upside-Down",
 		"maintenance": 2,
 		"hurryCostModifier": 15,
 		"percentStatBonus": {"science": 33},
@@ -123,7 +123,7 @@
    	{
 		"name": "Eltsac2",
 		"replaces": "Castle",
-		"uniqueTo": "Upside-Down2",
+		"uniqueTo": "Upside-Down2, Upside-Down",
 		"cost": 150,
 		"cityStrength": 7,
 		"cityHealth": 25,
@@ -137,7 +137,7 @@
 	{
 		"name": "Arepo Esuoh2",
 		"replaces": "Opera House",
-		"uniqueTo": "Upside-Down2",
+		"uniqueTo": "Upside-Down2, Upside-Down",
 		"culture": 4,
 		"happiness": 3,
 		"specialistSlots": {"Artist": 1},
@@ -150,7 +150,7 @@
     {
 		"name": "Knab2",
 		"replaces": "Bank",
-		"uniqueTo": "Upside-Down2",	
+		"uniqueTo": "Upside-Down2, Upside-Down",	
 		"gold": 2,
 		"specialistSlots": {"Merchant": 1},
 		"happiness": 2,
@@ -162,7 +162,7 @@
 	{
 		"name": "Llimdniw2",
 		"replaces": "Windmill",
-		"uniqueTo": "Upside-Down2",
+		"uniqueTo": "Upside-Down2, Upside-Down",
 		"production": 2,
 		"percentStatBonus": {"production": 5},
 		"specialistSlots": {"Engineer": 1},
