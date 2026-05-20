@@ -1,6 +1,6 @@
 [
 	{
-		"name": "Iaom",
+		"name": "Iaom2",
 		"uniqueTo": "Upside-Down2",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"culture": 1,
@@ -12,7 +12,7 @@
 		"shortcutKey": "M"
 	},
 	{
-		"name": "Ecarret mraf",
+		"name": "Ecarret mraf2",
 		"uniqueTo": "Upside-Down2",
 		"terrainsCanBeBuiltOn": ["Hill"],
 		"food": 1,
@@ -25,7 +25,7 @@
 		"shortcutKey": "F"
 	},
 	{
-		"name": "Redlop",
+		"name": "Redlop2",
 		"uniqueTo": "Upside-Down2",
 		"food": 3,
 		"terrainsCanBeBuiltOn": ["Marsh", "Flood plains"],
