@@ -1,7 +1,7 @@
 [
 	{
-		"name": "Iaom2",
-		"uniqueTo": "Upside-Down2",
+		"name": "Iaom",
+		"uniqueTo": "Upside-Down, Upside-Down2",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"culture": 1,
 		"turnsToBuild": 4,
